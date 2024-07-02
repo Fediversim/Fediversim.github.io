@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Developer Experience
-subtitle: "Developer Experience: IDP, Enterprise UX and self-efficiency"
-description: "Developer Experience, Experience Economy and Top Findings"
-keywords: "Developer Experience, IDP, Enterprise UX, Engineering Practices, Empirical Software Engineering"
+title: DeveEX
+subtitle: "Developer Experience"
+description: "Developer Experience, IDP, Enterprise UX, Experience Economy and Top Findings"
+keywords: "Developer Experience, IDP, Enterprise UX, Engineering Practices, Empirical Software Engineering, self-efficiency"
 author: Ethan Xia
 language: en
 timezone: "America/Los_Angeles"
