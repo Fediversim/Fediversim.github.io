@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: DeveEX
-subtitle: "Developer Experience"
-description: "Developer Experience, IDP, Enterprise UX, Experience Economy and Top Findings"
-keywords: "Developer Experience, IDP, Enterprise UX, Engineering Practices, Empirical Software Engineering, self-efficiency"
+title: Fediversim
+subtitle: "Fediverse Experience"
+description: "Fediverse Experience, Experience Economy and Top Findings"
+keywords: "Fediverse Experience, Engineering Practices, Empirical Software Engineering, self-efficiency"
 author: Ethan Xia
 language: en
 timezone: "America/Los_Angeles"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://devex.top
+url: https://fediversim.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
